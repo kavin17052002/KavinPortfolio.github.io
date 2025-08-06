@@ -1,0 +1,51 @@
+
+h1{
+    color:rgb(255, 255, 255);
+    background-color: rgb(93, 55, 55);
+    height: 60px;
+    width: 400px;
+    align-content: center;
+    border-width: 5px;
+    padding:10px;
+    border-style: solid;
+    border-color: rgb(255, 50, 50);
+    
+}
+.owner{
+    width: 250px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 5px;
+    border-style:solid;
+    border-color: rgb(104, 255, 34);
+   list-style-image: -moz-linear-gradient();
+    
+   
+
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    border-width: 5px;
+    text-align:right;
+    border-style: solid;
+    border-color: crimson;
+margin-left: 1310px;
+margin-right: 60px;
+padding-right: 20px;
+background-color:black;
+    border-width: 4px;
+    
+}
+span{
+    background-color: blue;
+}
+div{
+    height: 100px;
+    width: 200px;
+    text-align: right;
+    background-color: black;
+    padding: 50px;
+}
